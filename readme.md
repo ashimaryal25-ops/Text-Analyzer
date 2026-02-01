@@ -1,3 +1,5 @@
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://text-analyzer-3hhkucpd2qw6w3qo8ibhuz.streamlit.app/)
+
 # ☁️ Text-Analyzer (PDF Word Cloud)
 
 A Python web application that extracts text from PDF documents and generates customizable word clouds. Built with **Streamlit** and **Python**.
