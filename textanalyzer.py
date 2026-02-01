@@ -51,7 +51,7 @@ if uploaded_file is not None:
         wc.to_image().save(img_buffer, format='PNG')
         byte_im = img_buffer.getvalue()
 
-        # 2. Create the Download Button
+        # Create the Download Button
         st.download_button(
             label="Download Word Cloud as PNG",
             data=byte_im,
